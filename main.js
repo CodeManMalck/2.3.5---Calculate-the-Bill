@@ -5,4 +5,4 @@ function calculateBillTotal(total) {
   return total + tax + tip;
 }
 
-console.log(total + tax + tip);
+console.log(calculateBillTotal());
